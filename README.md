@@ -1,0 +1,1 @@
+Data shared under the CC-BY-4.0 license are available following the guidelines of the CC-BY-4.0 data usage license (Creative Commons by Attribution 4.0 International). The CC-BY-4.0 license specifies that the data user is free to Share (copy and redistribute the material in any medium or format) and/or Adapt (remix, transform, and build upon the material) for any purpose.
