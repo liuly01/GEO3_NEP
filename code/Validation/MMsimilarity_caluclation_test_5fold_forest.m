@@ -3,7 +3,7 @@ clear;
 close;
 
 % File paths
-allsampleFile = 'D:\han05\data\fluxdata\MM\Classification\PFT\dataset_newevi\forest.csv';
+allsampleFile = 'PFT\forest.csv';
 
 % Load data
 allsampleData = readtable(allsampleFile);
